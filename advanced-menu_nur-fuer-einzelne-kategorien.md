@@ -9,7 +9,8 @@ Datei anlegen:
 ### 2) 
 Code einfügen:
 
-`{function name="categories_top" level=0}
+```html
+{function name="categories_top" level=0}
 
     {$columnIndex = 0}
     {$menuSizePercentage = 100 - (25 * $columnAmount * intval($hasTeaser))}
@@ -110,7 +111,8 @@ Code einfügen:
            {/if}  </div>
         {/foreach}
     {/block}
-</div>`
+</div>
+```
 
 ### 3)
 Nun noch im Backend categorie freitexfeld attribute5 anleigen und auf spaltentyp Checkbox stellen.
