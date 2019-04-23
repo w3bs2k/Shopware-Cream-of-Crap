@@ -8,6 +8,8 @@ Datei anlegen:
 
 ### 2) 
 Code einfügen:
+
+``
 {function name="categories_top" level=0}
 
     {$columnIndex = 0}
@@ -110,7 +112,7 @@ Code einfügen:
         {/foreach}
     {/block}
 </div>  
-
+``
 
 ### 3)
 Nun noch im Backend categorie freitexfeld attribute5 anleigen und auf spaltentyp Checkbox stellen.
