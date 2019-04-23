@@ -2,11 +2,11 @@
 # menu_nur-fuer-einzelne-kategorien
 Möchte man das das AdvanvedMenu nur bei bestimmten Kategorien geöffnet wird, ist dies nur möglich wenn man Änderungen am Template vornimmt. 
 
-### 1) Datei im index.tpl Child Theme anlegen
+### 1) Datei index.tpl im Theme-Verzeichnis anlegen
 
 /themes/frontend/eigenes theme/frontend/plugin/advanced_menu/index.tpl 
 
-### 2) Code einfügen in die index.tpl einfügen
+### 2) Code in die 'index.tpl' einfügen
 
 
 ```html
