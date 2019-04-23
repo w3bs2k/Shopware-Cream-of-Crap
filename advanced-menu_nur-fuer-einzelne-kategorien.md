@@ -10,8 +10,6 @@ Datei anlegen:
 Code einfügen:
 
 ``
-
-
 {function name="categories_top" level=0}
 
     {$columnIndex = 0}
@@ -114,8 +112,6 @@ Code einfügen:
         {/foreach}
     {/block}
 </div>
-
-
 ``
 
 ### 3)
