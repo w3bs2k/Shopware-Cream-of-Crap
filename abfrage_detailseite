@@ -1,0 +1,4 @@
+Ich würde gerne eine If-Abfrage erstellen, die einen bestimmten <div>-Block nur ausgibt, wenn man sich in der Detailansicht befindet
+
+
+{if $Controller == 'detail'} bla {/if}
